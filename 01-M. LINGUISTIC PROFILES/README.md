@@ -85,7 +85,7 @@ of individuals' linguistic repertoires that integrate biographical as well as bi
 
 ### How to Create a language portrait:
 
-- Draw a body silhouette or use a pre-made one like this one. You can also make a digital version of it, adding photos to the silouhette, as if it were a collage. 
+- Draw a body silhouette or use a pre-made one like the one on this [PDF](/01-M.%20LINGUISTIC%20PROFILES/language_portrait.pdf). You can also make a digital version of it, adding photos to the silouhette, as if it were a collage. 
 
 - Choose colors, symbols and also words that represent your feelings or connections to the languages you know (for example, a person might use red to represent their native language, which they associate with warmth and passion, and place it around the heart area.Blue might be used for a second language that they associate with calmness and professionalism, perhaps placed around the head to signify intellectual use).
   
