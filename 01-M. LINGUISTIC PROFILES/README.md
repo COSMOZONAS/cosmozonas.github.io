@@ -26,9 +26,7 @@ For all of them, the Universal Declaration of Linguistic Rights promises a futur
 That original text, written, amended, approved and proclaimed at non-governmental level wants nevertheless to contribute to the work of the United Nations. It aims to be a strong motivation, an appeal to the states so that, in the dynamics started by the Declaration of Human Rights of 1948, they would recognize the linguistic rights of the individuals and of their communities. The association of UNESCO to our process from the very beginning and the work it has been doing along these lines gives us hope that some day a normative body of the United Nations regulating the defence of linguistic rights all over the world will be approved. This book wants to contribute to this work.
 In this book the text of the Universal Declaration of Linguistic Rights appears and it is explained how it was written and proclaimed in the World Conference on Linguistic Rights. It is the work done by 61 NGOs, 41 PEN Club centres and over 40 experts in linguistic rights, coming from the five continents.The testimony of well-known personalities from all over the world also appears, as well as that of writers and people who fight for rights, for peace and who wanted to join us in this project. 
 We all, like that king in the fairy tale, may put the last question to that wise man who knew all the languages of the world. The king looked at him as if defying him, as if testing him, and asked him the final question:
-
 "In my hands, which are hidden behind my back, there is a bird. Wise man, answer me: is it alive or dead?"
-
 The answer of the wise man was addressed to everybody. In our case, to everybody who has any responsibility in promoting linguistic rights, from the activist to the writer, from the teacher to the legislator. For that wise man, surprisingly, felt scared. He knew that, whatever the answer, the king could kill the bird. He looked at the king and remained silent for a long time. Finally, in a very serene voice he said,
 "The answer, Sir, is in your hands."
 
@@ -43,7 +41,7 @@ QUESTIONS TO REFLECT ON AFTER READING
 
 ## What is a language portrait?
 
-[language_portrait](/images_1/language-portrait.png)
+![language_portrait](images_1/language-portrait.png)
 
 
 The linguistic portrait, also known as a language portrait, is a visual representation of an individual's linguistic repertoires, which uses the outline of an of the linguistic repertoires of individuals, using the outline of a body silhouette. It was originally developed as a linguistic awareness exercise in educational linguistic awareness exercise in educational settings, but it is increasingly being used as a research tool to study how speakers interpret their multilingual practices and repertoires. 
@@ -77,4 +75,4 @@ Find some examples of language portraits [here.](https://www.bing.com/images/sea
 
 - Be as visually clear as possible in your depictions, since you'll show this material to the other two students who do not know your speak your language. 
 
-Keep your portrait and be ready to show in the video-call sessions!
+Keep your portrait and be ready to show it in the video-call sessions!
