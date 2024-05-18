@@ -43,7 +43,7 @@ QUESTIONS TO REFLECT ON AFTER READING
 
 ## What is a language portrait?
 
-![language_portrait](/images_1/language-portrait.png)
+[language_portrait](/images_1/language-portrait.png)
 
 
 The linguistic portrait, also known as a language portrait, is a visual representation of an individual's linguistic repertoires, which uses the outline of an of the linguistic repertoires of individuals, using the outline of a body silhouette. It was originally developed as a linguistic awareness exercise in educational linguistic awareness exercise in educational settings, but it is increasingly being used as a research tool to study how speakers interpret their multilingual practices and repertoires. 

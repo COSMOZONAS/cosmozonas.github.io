@@ -1,5 +1,5 @@
 
-![pajaro](/images/bird_portada.png)
+[pajaro](/images/bird_portada.png)
 
 # THE LANGUAGE OF THE BIRDS
 
