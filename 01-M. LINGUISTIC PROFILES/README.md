@@ -2,11 +2,11 @@
 
 ## In this module, you will...
 
-- Read the preface of the Universal Declaration of Linguistic Rights, by Carles Torner Pifarré.
-- Discover what a linguistic portrait is, create your own and share it with the others.
+- 1.1 Read and reflect on the preface of the Universal Declaration of Linguistic Rights, by Carles Torner Pifarré.
+- 1.2 Discover what a linguistic portrait is, create your own and be ready to share it with the others.
 
 
-## UNIVERSAL DECLARATION OF LINGUISTIC RIGHTS
+## 1.1 Universal Declaration of Linguistic Rights.
 
 >An old legend says that, a long time ago, there was a king who heard that in his country there lived a truly wise man. He was so wise, they said, that he could speak all the languages in the world. He knew the song of the birds and understood it as if he were one of them. He knew how to read the shape of the clouds and immediately understand their meaning. Any language he listened to, he could answer without hesitation. He could even read the thoughts of men and women wherever they came from. 
 
@@ -39,8 +39,7 @@ Which languages from all over the world are spoken by the authors of the Univers
 
 >That original text, written, amended, approved and proclaimed at non-governmental level wants nevertheless to contribute to the work of the United Nations. It aims to be a strong motivation, an appeal to the states so that, in the dynamics started by the Declaration of Human Rights of 1948, they would recognize the linguistic rights of the individuals and of their communities. The association of UNESCO to our process from the very beginning and the work it has been doing along these lines gives us hope that some day a normative body of the United Nations regulating the defence of linguistic rights all over the world will be approved. 
 
->This book wants to contribute to this work.
-In this book the text of the Universal Declaration of Linguistic Rights appears and it is explained how it was written and proclaimed in the World Conference on Linguistic Rights. It is the work done by 61 NGOs, 41 PEN Club centres and over 40 experts in linguistic rights, coming from the five continents.The testimony of well-known personalities from all over the world also appears, as well as that of writers and people who fight for rights, for peace and who wanted to join us in this project. 
+>This book wants to contribute to this work.In this book the text of the Universal Declaration of Linguistic Rights appears and it is explained how it was written and proclaimed in the World Conference on Linguistic Rights. It is the work done by 61 NGOs, 41 PEN Club centres and over 40 experts in linguistic rights, coming from the five continents.The testimony of well-known personalities from all over the world also appears, as well as that of writers and people who fight for rights, for peace and who wanted to join us in this project. 
 
 >We all, like that king in the fairy tale, may put the last question to that wise man who knew all the languages of the world. The king looked at him as if defying him, as if testing him, and asked him the final question:
 
@@ -59,14 +58,14 @@ QUESTIONS TO REFLECT ON AFTER READING
 - Do you agree with the author of the text?
 - What do you think is necessary to preserve the linguistic diversity? How could you personally contribute to that?
 
-## What is a language portrait?
+## 1.2 What is a language portrait?
 
 ![language_portrait](images_1/language-portrait.png)
 
 
 The linguistic portrait, also known as a language portrait, is a visual representation of an individual's linguistic repertoires, which uses the outline of an of the linguistic repertoires of individuals, using the outline of a body silhouette. It was originally developed as a linguistic awareness exercise in educational linguistic awareness exercise in educational settings, but it is increasingly being used as a research tool to study how speakers interpret their multilingual practices and repertoires. 
 
-## Advantages of the language portrait
+## 1.2.1 Advantages of the language portrait
 
 - It allows participants to capture a first-person visual and narrative account of their linguistic repertoires. This makes it possible to reflect on communicative practices from a unique perspective. 
 
@@ -75,7 +74,7 @@ The linguistic portrait, also known as a language portrait, is a visual represen
 - Ultimately, it offers a nuanced understanding of 
 of individuals' linguistic repertoires that integrate biographical as well as biographical and discursive perspectives, and explores how historical discourses can shape individual experiences.  
 
-## Create your own language portrait
+## 1.2.2 Create your own language portrait
 ### Some questions to reflect on:
 
 1. How do you communicate with others?
@@ -83,16 +82,14 @@ of individuals' linguistic repertoires that integrate biographical as well as bi
 3. How has your use of language changed over time?
 4. What do you hope for the future?
 
-### How to Create a language portrait:
+## 1.2.3 How to Create a language portrait:
 
 - Draw a body silhouette or use a pre-made one like the one on this [PDF](/01-M.%20LINGUISTIC%20PROFILES/language_portrait.pdf). You can also make a digital version of it, adding photos to the silouhette, as if it were a collage. 
 
 - Choose colors, symbols and also words that represent your feelings or connections to the languages you know (for example, a person might use red to represent their native language, which they associate with warmth and passion, and place it around the heart area.Blue might be used for a second language that they associate with calmness and professionalism, perhaps placed around the head to signify intellectual use).
   
-- Place these elements on the silhouette in a way that reflects how you perceive these languages within yourself. For example, a language close to your heart might be placed on the chest area of the silhouette.
-
-Find some examples of language portraits [here.](https://www.bing.com/images/search?q=Language+Portrait+Template&form=HDRSC3&first=1)
+- Place these elements on the silhouette in a way that reflects how you perceive these languages within yourself. For example, a language close to your heart might be placed on the chest area of the silhouette.Find some examples of language portraits [here.](https://www.bing.com/images/search?q=Language+Portrait+Template&form=HDRSC3&first=1)
 
 - Be as visually clear as possible in your depictions, since you'll show this material to the other two students who do not know your speak your language. 
 
-Keep your portrait and be ready to show it in the video-call sessions!
+- Keep your portrait and be ready to show it in the video-call sessions!
