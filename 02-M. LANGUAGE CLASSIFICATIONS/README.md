@@ -6,7 +6,7 @@
 - 2.1 Test your knowledge through an interactive activity with
   Genially.
 
- ## 2.1 Access the languages classification presentation [here](/presentation_languages/index.html) 
+ ## 2.1 Access the languages classification presentation [here](presentation_languages/index.html)
 
  
   
