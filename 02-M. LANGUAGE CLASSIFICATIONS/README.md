@@ -8,5 +8,6 @@
 
  ## 2.1 Access the languages classification presentation [here.](presentation_languages/index.html)
 
+## 2.2 Interactive exercise with [Genially.](https://view.genially.com/664c6fd37338e60014f696c6/interactive-content-world-map-languages)
  
   
