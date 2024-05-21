@@ -2,11 +2,11 @@
 
 ## In this module, you will...
 
-- 2.1 Learn about the ways in which languages can be classified with a presentation. 
-- 2.1 Test your knowledge through an interactive activity with
+- 2.1 Learn about the ways in which languages can be classified. 
+- 2.1 Test your knowledge through an interactive activity on
   Genially.
 
- ## 2.1 Access the languages classification presentation [here](presentation_languages/index.html)
+ ## 2.1 Access the languages classification presentation [here.](presentation_languages/index.html)
 
  
   

@@ -5,9 +5,13 @@ In Abrahamic and European mythology, medieval literature and occultism,the langu
 
 # ABOUT THE COURSE "THE LANGUAGE OF THE BIRDS"
 
-This course, entitled "The Language of the Birds" is based on the Awakening to Languages learning methodology for adults and its purpose is to bring together Chinese, Spanish, and Arabic speakers. Ideally, it is aimed at speakers of these languages, although it can also be approached by anyone interested in plural aproaches in language teaching.
+This course, entitled "The Language of the Birds" is based on the Awakening to Languages learning methodology for adults and its purpose is to bring together Chinese, Spanish, and Arabic speakers. Ideally, it is aimed at speakers of these languages, although it can also be approached by anyone interested in plural aproaches in language teaching. In order to understand the instructions and the content material you need to have a at least a **C1 reading level in English**. 
 
-In order to understand the instructions and the content material you need to have a **B2+/C1 or C2 of English reading level**. 
+It is important to mention that the completion of the full course (including the video-call sessions) will require you to reach the instructor at some point so you can arrange the virtual meetings with the other students.
+
+Do not hesitate to contact me on this e-mail: **xxxxxxx@gmail.com**.I'll be happy to answer any questions you have!
+
+## LEARNING OBJECTIVES
 
 These are some of the main learning objectives that will be covered in this 10-hour online course:
 
@@ -27,7 +31,7 @@ The students will gain some valuable knowledge of linguistics aspects of the thr
 
  In our interconnected world, knowledge of Chinese, Spanish, and Arabic can open up numerous professional opportunities. The course can be a stepping stone for adults looking to expand their career prospects in international fields.
 
-This NOOC can be a powerful platform for adult learners to enhance their language skills, cultural understanding, and global awareness, making it a valuable experience.
+This NOOC can be a powerful platform for adult learners to enhance their language skills, cultural understanding, and global awareness, making it aN overall valuable experience.
 
 
  This is a table with the contents and a short description for each module. 
