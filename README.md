@@ -33,6 +33,7 @@ The students will gain some valuable knowledge of linguistics aspects of the thr
 
 This NOOC can be a powerful platform for adult learners to enhance their language skills, cultural understanding, and global awareness, making it aN overall valuable experience.
 
+# INDEX
 
  This is a table with the contents and a short description for each module. 
 
