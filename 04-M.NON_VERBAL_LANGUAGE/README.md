@@ -10,14 +10,14 @@
 
 Non-verbal communication is fundamental in languages because it conveys a great deal of information that goes beyond words. Non-verbal elements such as tone of voice, intonation, posture and eye contact complement and enrich the verbal message, allowing a better understanding of the interlocutor and revealing emotions and attitudes that may not be expressed verbally. In addition, non-verbal communication can be a more reliable indicator of a person's intentions or feelings, as it occurs more subconsciously and is less susceptible to conscious control. Non-verbal communication is essential for full and effective human interaction, and its study and understanding can significantly improve the quality of our communication. Now you are going to watch a [TED Talk](https://www.youtube.com/watch?v=fLaslONQAKM&t=11s) by Joe Navarro. 
 
-### 4.2 BODY LANGUAGE AND NON-VERBAL COMMUNICATION IN DIFFERENT CULTURES
+## 4.2 BODY LANGUAGE AND NON-VERBAL COMMUNICATION IN DIFFERENT CULTURES
 
 Body language and non-verbal features bridge gaps in cross-cultural communication and enhance your connection with others. However, they may vary greatly from culture to culture. Here you will find a selection of some of those non-verbal traits typical of cultures where our three target languages belong.
 
 ### 4.2.2 NON-VERBAL COMMUNICATION IN THE ARAB WORLD
 Explore the following resources to find out more about non-verbal communication in the arab world. 
 
-#### VIDEO: [Arabic hand gestures and what they mean](https://www.youtube.com/watch?v=HGdQeUuUT3g) 
+#### VIDEO:[Arabic hand gestures and what they mean](https://www.youtube.com/watch?v=HGdQeUuUT3g) 
 
 #### INFOGRAPHIC:
 ![non_verbal_arabic](images/non_verbal_arabic.png)

@@ -4,8 +4,7 @@
 
 - 5.1 Learn a set of common greetings in Chinese, Spanish and Arabic.  
 
-
- ## 5.1 COMMON GREETINGS
+## 5.1 COMMON GREETINGS
 
 ### Introduction
 
