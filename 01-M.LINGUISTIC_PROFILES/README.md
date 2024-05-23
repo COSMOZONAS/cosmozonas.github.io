@@ -31,7 +31,7 @@ of individuals' linguistic repertoires that integrate biographical as well as bi
 3. How has your use of language changed over time?
 4. What do you hope for the future?
 
-### 1.2.3 How to Create a language portrait:
+### 1.2.3 How to Create a language portrait
 
 - Draw a body silhouette or use a pre-made one like the one on this [PDF](http://cosmozonas.github.io/01-M.LINGUISTIC_PROFILES/language_portrait.pdf). You can also make a digital version of it, adding photos to the silouhette, as if it were a collage. 
 
