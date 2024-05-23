@@ -44,7 +44,7 @@ This NOOC can be a powerful platform for adult learners to enhance their languag
 | [3.LANGUAGE SOUNDS](/03-M.SOUNDS/)      | Learn some of the language universals related to sounds. Listen to some Arabic, Spanish and Chinese audio samples.      |
 | [4.NON-VERBAL LANGUAGE](/04-M.NON_VERBAL_LANGUAGE/)      |Explore some non-verbal conventions that will help you to communicate more effectively.        |
 | [5.GREETINGS](/05-M.GREETINGS/)      | Learn a list of everyday expressions and greetings in the three languages.      |
-| [6.VIDEO-CALL SESSIONS](/06-M.VIDEO_CALL_SESSIONS/)      | Meet the other two participants in three video-call sessions guided by an instructor.       |
+| [7.READY TO DOWNLOAD](/07-READY_TO_DOWNLOAD/)      | Meet the other two participants in three video-call sessions guided by an instructor.       |
 
 
 

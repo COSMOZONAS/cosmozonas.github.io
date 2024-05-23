@@ -1,4 +1,4 @@
-# 5. GREETINGS
+# 3. GREETINGS
 
 **In this module, you will...**
 
