@@ -2,9 +2,9 @@
 
 Download the material of the course in EPUB or PDF format so you can use it offline or print it if you want. 
 
-- [PDF](cosmozonas.github.io/05-READY_TO_DOWNLOAD/Language_of_the_Birds.pdf)
+- [PDF](/05-READY_TO_DOWNLOAD/Language_of_the_Birds.pdf)
 
-- [EPUB](cosmozonas.github.io/05-READY_TO_DOWNLOAD/Language_of_the_birds_epub)
+- [EPUB](/05-READY_TO_DOWNLOAD/Language_of_the_birds_epub)
 
 - [PDF:Language portrait](/05-READY_TO_DOWNLOAD/language_portrait.pdf)
 
