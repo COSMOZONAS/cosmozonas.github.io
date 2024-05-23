@@ -8,7 +8,7 @@
 
 ## 2.1 Access the languages classification presentation [here.](presentation_languages/index.html)
 
-as in [here](hhtp://cosmozonas.github.io/02-M.LANGUAGE_CLASSIFICATIONS/presentation_languages/)
+## or as in [here](http://cosmozonas.github.io/02-M.LANGUAGE_CLASSIFICATIONS/presentation_languages/)
 
 
 
