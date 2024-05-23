@@ -41,10 +41,10 @@ This NOOC can be a powerful platform for adult learners to enhance their languag
 |:------------------------------------:|:---------------:|
 |[1.LINGUISTIC PORTRAITS](/01-M.LINGUISTIC_PROFILES/)      | Create your own lingüistic portrait and share it with the other students.      |
 | [2.LANGUAGE CLASSIFICATION](/02-M.LANGUAGE_CLASSIFICATIONS/)  | Learn about the classification of the world's languages. 
-| [3.LANGUAGE SOUNDS](/03-M.SOUNDS/)      | Learn some of the language universals related to sounds. Listen to some Arabic, Spanish and Chinese audio samples.      |
+| [3.GREETINGS](/03-M.GREETINGS/)      | Learn some of the language universals related to sounds. Listen to some Arabic, Spanish and Chinese audio samples.      |
 | [4.NON-VERBAL LANGUAGE](/04-M.NON_VERBAL_LANGUAGE/)      |Explore some non-verbal conventions that will help you to communicate more effectively.        |
-| [5.GREETINGS](/05-M.GREETINGS/)      | Learn a list of everyday expressions and greetings in the three languages.      |
-| [7.READY TO DOWNLOAD](/07-READY_TO_DOWNLOAD/)      | Meet the other two participants in three video-call sessions guided by an instructor.       |
+| [5.READY TO DOWNLOAD](/05-READY_TO_DOWNLOAD/)      | Learn a list of everyday expressions and greetings in the three languages.      |
+
 
 
 
