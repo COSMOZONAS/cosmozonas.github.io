@@ -15,25 +15,31 @@ Do not hesitate to contact me on this e-mail: **xxxxxxx@gmail.com**.I'll be happ
 
 These are some of the main learning objectives that will be covered in this 10-hour online course:
 
-## 1. Fostering language diversity, plurilingualism and multiculturalism.
+- 1. **Fostering language diversity, plurilingualism and multiculturalism.**
 
 Participants can learn from each other’s languages and cultures, gaining insights into different ways of thinking and expressing ideas. This mutual learning experience can enhance cognitive flexibility and empathy.
 
-## 2. Promoting multi-cultural communication.
+- 2. **Promoting multi-cultural communication.**
 
 By engaging speakers of these three languages, the course will enhance cross-cultural dialogue, breaking down barriers and building bridges between different linguistic communities through a series of video-call sessions led by an instructor. 
 
-## 3. Raising language and linguistics awareness.
+- 3. **Raising language and linguistics awareness.**
 
 The students will gain some valuable knowledge of linguistics aspects of the three languages which most language learning courses don't offer. 
 
-## 4. Contributing to professional and personal development.
+- 4. **Contributing to professional and personal development.**
 
  In our interconnected world, knowledge of Chinese, Spanish, and Arabic can open up numerous professional opportunities. The course can be a stepping stone for adults looking to expand their career prospects in international fields.
 
 This NOOC can be a powerful platform for adult learners to enhance their language skills, cultural understanding, and global awareness, making it aN overall valuable experience.
 
 # INDEX
+
+## [1.LINGUISTIC PORTRAITS](/01-M.%20LINGUISTIC%20PROFILES/)
+## [2.LANGUAGE CLASSIFICATION](/02-M.%20LANGUAGE%20CLASSIFICATIONS/)
+## [3.LANGUAGE SOUNDS](/03-M.%20SOUNDS/)
+## [5.GREETINGS](/05-M.%20%20GREETINGS/)
+## [6.VIDEO-CALL SESSIONS](/06-M.%20VIDEO-CALL%20SESSIONS/)
 
  This is a table with the contents and a short description for each module. 
 
