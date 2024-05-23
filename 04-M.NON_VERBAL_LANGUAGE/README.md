@@ -17,9 +17,9 @@ Body language and non-verbal features bridge gaps in cross-cultural communicatio
 ### 4.2.2 NON-VERBAL COMMUNICATION IN THE ARAB WORLD
 Explore the following resources to find out more about non-verbal communication in the arab world. 
 
-- VIDEO: [Arabic hand gestures and what they mean](https://www.youtube.com/watch?v=HGdQeUuUT3g) 
+#### VIDEO: [Arabic hand gestures and what they mean](https://www.youtube.com/watch?v=HGdQeUuUT3g) 
 
-- INFOGRAPHIC:
+#### INFOGRAPHIC:
 ![non_verbal_arabic](images/non_verbal_arabic.png)
 
 Access the complete resource [here](https://www.qfi.org/resources/infographics/non-verbal-communication-in-the-arab-world/)
