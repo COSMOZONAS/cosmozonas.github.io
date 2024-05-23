@@ -3,7 +3,7 @@
 
 In Abrahamic and European mythology, medieval literature and occultism,the language of the birds is considered a mystical, perfect divine language, often associated with wisdom and enlightenment. It’s believed to be the language used by birds to communicate with the initiated and is sometimes seen as a metaphor for understanding the secrets of the gods or the universe.
 
-## ABOUT THE COURSE "THE LANGUAGE OF THE BIRDS"
+# ABOUT THE COURSE "THE LANGUAGE OF THE BIRDS"
 
 This course, entitled "The Language of the Birds" is based on the Awakening to Languages learning methodology for adults and its purpose is to bring together Chinese, Spanish, and Arabic speakers. Ideally, it is aimed at speakers of these languages, although it can also be approached by anyone interested in plural aproaches in language teaching. In order to understand the instructions and the content material you need to have a at least a **C1 reading level in English**. 
 
@@ -11,7 +11,7 @@ It is important to mention that the completion of the full course (including the
 
 Do not hesitate to contact me on this e-mail: **xxxxxxx@gmail.com**.I'll be happy to answer any questions you have!
 
-## LEARNING OBJECTIVES
+# LEARNING OBJECTIVES
 
 These are some of the main learning objectives that will be covered in this 10-hour online course:
 
@@ -33,7 +33,7 @@ The students will gain some valuable knowledge of linguistics aspects of the thr
 
 This NOOC can be a powerful platform for adult learners to enhance their language skills, cultural understanding, and global awareness, making it aN overall valuable experience.
 
-## INDEX
+# INDEX
 
 ## [1. LINGUISTIC PORTRAITS](/01-M.%20LINGUISTIC%20PROFILES/)
 ## [2. LANGUAGE CLASSIFICATION](/02-M.%20LANGUAGE%20CLASSIFICATIONS/)
