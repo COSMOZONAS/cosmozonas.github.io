@@ -39,12 +39,12 @@ This NOOC can be a powerful platform for adult learners to enhance their languag
 
 | **MODULES**                          | **DESCRIPTION** |
 |:------------------------------------:|:---------------:|
-|[1.LINGUISTIC PORTRAITS](/01-M.%20LINGUISTIC%20PROFILES/)      | Create your own lingüistic portrait and share it with the other students.      |
-| [2.LANGUAGE CLASSIFICATION](/02-M.%20LANGUAGE%20CLASSIFICATIONS/)  | Learn about the classification of the world's languages. 
-| [3.LANGUAGE SOUNDS](/03-M.%20SOUNDS/)      | Learn some of the language universals related to sounds. Listen to some Arabic, Spanish and Chinese audio samples.      |
-| [4.NON-VERBAL LANGUAGE](/04-M.%20NON-VERBAL%20LANGUAGE/)      |Explore some non-verbal conventions that will help you to communicate more effectively.        |
-| [5.GREETINGS](/05-M.%20%20GREETINGS/)      | Learn a list of everyday expressions and greetings in the three languages.      |
-| [6.VIDEO-CALL SESSIONS](/06-M.%20VIDEO-CALL%20SESSIONS/)      | Meet the other two participants in three video-call sessions guided by an instructor.       |
+|[1.LINGUISTIC PORTRAITS](/01-M.LINGUISTIC_PROFILES/)      | Create your own lingüistic portrait and share it with the other students.      |
+| [2.LANGUAGE CLASSIFICATION](/02-M.LANGUAGE_CLASSIFICATIONS/)  | Learn about the classification of the world's languages. 
+| [3.LANGUAGE SOUNDS](/03-M.SOUNDS/)      | Learn some of the language universals related to sounds. Listen to some Arabic, Spanish and Chinese audio samples.      |
+| [4.NON-VERBAL LANGUAGE](/04-M.NON_VERBAL_LANGUAGE/)      |Explore some non-verbal conventions that will help you to communicate more effectively.        |
+| [5.GREETINGS](/05-M.GREETINGS/)      | Learn a list of everyday expressions and greetings in the three languages.      |
+| [6.VIDEO-CALL SESSIONS](/06-M.VIDEO_CALL_SESSIONS/)      | Meet the other two participants in three video-call sessions guided by an instructor.       |
 
 
 

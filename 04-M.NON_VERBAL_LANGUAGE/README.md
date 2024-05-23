@@ -22,7 +22,7 @@ INFOGRAPHIC:
 ![non_verbal_arabic](images/non_verbal_arabic.png)
 
 
-Access the complete resource [here](https://www.qfi.org/resources/infographics/non-verbal-communication-in-the-arab-world/
+Access the complete resource [here](https://www.qfi.org/resources/infographics/non-verbal-communication-in-the-arab-world/)
 
 
 ### 4.2.3 NON-VERBAL COMMUNICATION IN CHINA
