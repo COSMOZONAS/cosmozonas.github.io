@@ -43,7 +43,7 @@ This NOOC can be a powerful platform for adult learners to enhance their languag
 | [2.LANGUAGE CLASSIFICATION](/02-M.LANGUAGE_CLASSIFICATIONS/)  | Learn about the classification of the world's languages. 
 | [3.GREETINGS](/03-M.GREETINGS/)      | Learn a set of greetings. Listen to some Arabic, Spanish and Chinese audio samples.      |
 | [4.NON-VERBAL LANGUAGE](/04-M.NON_VERBAL_LANGUAGE/)      |Explore some non-verbal conventions that will help you to communicate more effectively.        |
-| [5.MATERIAL](/05-M.MATERIAL)      | Find the material of this course in EPUB and PDF formats.      |
+| [5.MATERIAL](/05-M.MATERIAL/)      | Find the material of this course in EPUB and PDF formats.      |
 
 
 
