@@ -11,7 +11,7 @@ It is important to mention that the completion of the full course (including the
 
 Do not hesitate to contact me on this e-mail: **xxxxxxx@gmail.com**.I'll be happy to answer any questions you have!
 
-# LEARNING OBJECTIVES
+## LEARNING OBJECTIVES
 
 These are some of the main learning objectives that will be covered in this 10-hour online course:
 
