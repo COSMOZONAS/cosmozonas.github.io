@@ -1,0 +1,18 @@
+
+#page {
+    background-color: ##E2EAF4; /* Fondo negro */
+    color: #634319; /* Texto blanco */
+}
+
+img {
+  width: 300px; /* Replace with the width you want */
+  height: auto; /* This will keep the aspect ratio intact */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* or any other width */
+}
+
+
+
+
