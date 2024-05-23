@@ -1,4 +1,4 @@
-# EPUB AND PDF
+# 5. EPUB AND PDF
 
 Download the material of the course in EPUB or PDF format so you can use it offline or print it if you want. 
 
