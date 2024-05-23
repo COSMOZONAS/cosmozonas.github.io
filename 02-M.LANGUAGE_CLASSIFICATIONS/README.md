@@ -6,9 +6,8 @@
 - 2.1 Test your knowledge through an interactive activity on
   Genially.
 
-## 2.1 Access the languages classification presentation [here.](presentation_languages/index.html)
 
-## or as in [here](http://cosmozonas.github.io/02-M.LANGUAGE_CLASSIFICATIONS/presentation_languages/)
+## 2.1 Access the languages classification presentation [here](http://cosmozonas.github.io/02-M.LANGUAGE_CLASSIFICATIONS/presentation_languages/)
 
 
 
