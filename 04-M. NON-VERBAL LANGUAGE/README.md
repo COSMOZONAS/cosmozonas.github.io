@@ -3,7 +3,7 @@
 ## In this module, you will...
 
 - 4.1 Watch a TED talk video on the power of non-verbal communication. 
-- 4.2 Learn about body language and non-verbal communication related to Arabic, Spanish and Chinese conventions with a presentation in [Twine](/04-M.NON-VERBAL LANGUAGE/Twine/WORLD COMMUNICATION CENTRE.html)
+- 4.2 Learn about body language and non-verbal communication related to Arabic, Spanish and Chinese conventions with a presentation in [Twine](./Twine/WORLD%20COMMUNICATION%20CENTRE.html)
 
 
 # 4.1 WHAT IS NON-VERBAL COMMUNICATION?
