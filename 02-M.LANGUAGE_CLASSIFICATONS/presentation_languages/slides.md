@@ -36,7 +36,7 @@ This [infographic](https://www.researchgate.net/figure/Major-languages-of-the-wo
 
 ## TIPOLOGICAL
 This is a diagram showing the typological classification of languages (based on the internal structure of the languages). You will the explanation and some examples in the following slides.
-![tipological](images/typological%20classifiacion.png)
+![tipological](images/typological_classifiacion.png)
 
 ## ISOLATING LANGUAGES
 An isolating language is one in which all the words are morphologically unanalyzable (i.e., in which each word is composed of a single morpheme). This means that they do not use affixes or words are not altered to express grammatical relationships. That is the case of Mandarin Chinese.
