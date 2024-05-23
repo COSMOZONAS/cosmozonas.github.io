@@ -30,10 +30,10 @@ of individuals' linguistic repertoires that integrate biographical as well as bi
 2. What languages do you use in your daily life? Why do you use them?
 3. How has your use of language changed over time?
 4. What do you hope for the future?
-
+## 2.1 Access the presentation about language classifications [here](http://cosmozonas.github.io/02-M.LANGUAGE_CLASSIFICATIONS/presentation_languages/index.html)
 ### 1.2.3 How to Create a language portrait:
 
-- Draw a body silhouette or use a pre-made one like the one on this [PDF](/01-M.LINGUISTIC_PROFILES/language_portrait.pdf). You can also make a digital version of it, adding photos to the silouhette, as if it were a collage. 
+- Draw a body silhouette or use a pre-made one like the one on this [PDF](http://cosmozonas.github.io/01-M.LINGUISTIC_PROFILES/language_portrait.pdf). You can also make a digital version of it, adding photos to the silouhette, as if it were a collage. 
 
 - Choose colors, symbols and also words that represent your feelings or connections to the languages you know (for example, a person might use red to represent their native language, which they associate with warmth and passion, and place it around the heart area.Blue might be used for a second language that they associate with calmness and professionalism, perhaps placed around the head to signify intellectual use).
   

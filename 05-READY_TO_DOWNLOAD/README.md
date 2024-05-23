@@ -2,8 +2,9 @@
 
 Download the material of the course in EPUB or PDF format so you can use it offline or print it if you want. 
 
-- [PDF:The Language of the Birds](/05-READY_TO_DOWNLOAD/Language%20of%20the%20Birds,%20The%20-%20Marta%20Jiménez.pdf)
+- [PDF](http://cosmozonas.github.io/05-READY-TO-DOWNLOAD/Language of the Birds, The - Marta Jiménez.pdf)
 
-- [EPUB:The Language of the Birds](/05-READY_TO_DOWNLOAD/Language_of_birds_epub/dist/milibro.epub)
+- [EPUB](http://cosmozonas.github.io/05-READY-TO-DOWNLOAD/Language_of_birds_epub)
 
-- [PDF:Language portrait](/05-READY_TO_DOWNLOAD/language_portrait.pdf)
+- [PDF:Language portrait](http://cosmozonas.github.io/05-READY-TO-DOWNLOAD/language_portrait.pdf)
+
