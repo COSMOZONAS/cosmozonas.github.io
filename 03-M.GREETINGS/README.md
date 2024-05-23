@@ -6,7 +6,7 @@
 
 ## 5.1 COMMON GREETINGS
 
-### Introduction
+### 5.1.1 Introduction
 
 Welcome to a journey through language and culture, where a simple greeting opens the door to understanding and connecting with people from around the world. Greetings are more than just words; they are the first step in forming relationships, showing respect, and expressing interest in someone's culture.
 
@@ -16,7 +16,7 @@ From the warm "السلام عليكم" (As-salamu alaykum) in Arabic-speaking c
 
 As you delve into this collection of greetings, you'll not only learn how to say hello in different languages, but you'll also gain insights into the etiquette and history behind these expressions. So, let's embrace the beauty of language and start our journey with a smile and a heartfelt greeting.
 
-### TABLE OF GREETINGS
+### 5.1.2 Table of greetings
 
  | # | ARABIC | CHINESE | SPANISH | TRANSLATION |
 |---|--------|---------|---------|-------------|
