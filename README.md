@@ -33,24 +33,18 @@ The students will gain some valuable knowledge of linguistics aspects of the thr
 
 This NOOC can be a powerful platform for adult learners to enhance their language skills, cultural understanding, and global awareness, making it aN overall valuable experience.
 
-# INDEX
+# TABLE OF CONTENTS
 
-## [1. LINGUISTIC PORTRAITS](/01-M.%20LINGUISTIC%20PROFILES/)
-## [2. LANGUAGE CLASSIFICATION](/02-M.%20LANGUAGE%20CLASSIFICATIONS/)
-## [3. LANGUAGE SOUNDS](/03-M.%20SOUNDS/)
-## [5. GREETINGS](/05-M.%20%20GREETINGS/)
-## [6. VIDEO-CALL SESSIONS](/06-M.%20VIDEO-CALL%20SESSIONS/)
-
- This is a table with the contents and a short description for each module. 
+ This is a table with the contents and a short description for each module. Click on the link to access each module. 
 
 | **MODULES**                          | **DESCRIPTION** |
 |:------------------------------------:|:---------------:|
-| *[1.LINGUISTIC PORTRAITS](/01-M.%20LINGUISTIC%20PROFILES/)*      | Create your own lingüistic portrait and share it with the other students.      |
-| *[2.LANGUAGE CLASSIFICATION](/02-M.%20LANGUAGE%20CLASSIFICATIONS/)*  | Learn about the classification of the world's languages. 
-| *[3.LANGUAGE SOUNDS](/03-M.%20SOUNDS/)*      | Learn some of the language universals related to sounds. Listen to some Arabic, Spanish and Chinese audio samples.      |
-| *[4.NON-VERBAL LANGUAGE](/04-M.%20NON-VERBAL%20LANGUAGE/)*      |Explore some non-verbal conventions that will help you to communicate more effectively.        |
-| *[5.GREETINGS](/05-M.%20%20GREETINGS/)*      | Learn a list of everyday expressions and greetings in the three languages.      |
-| *[6.VIDEO-CALL SESSIONS](/06-M.%20VIDEO-CALL%20SESSIONS/)*      | Meet the other two participants in three video-call sessions guided by an instructor.       |
+|[1.LINGUISTIC PORTRAITS](/01-M.%20LINGUISTIC%20PROFILES/)      | Create your own lingüistic portrait and share it with the other students.      |
+| [2.LANGUAGE CLASSIFICATION](/02-M.%20LANGUAGE%20CLASSIFICATIONS/)  | Learn about the classification of the world's languages. 
+| [3.LANGUAGE SOUNDS](/03-M.%20SOUNDS/)      | Learn some of the language universals related to sounds. Listen to some Arabic, Spanish and Chinese audio samples.      |
+| [4.NON-VERBAL LANGUAGE](/04-M.%20NON-VERBAL%20LANGUAGE/)      |Explore some non-verbal conventions that will help you to communicate more effectively.        |
+| [5.GREETINGS](/05-M.%20%20GREETINGS/)      | Learn a list of everyday expressions and greetings in the three languages.      |
+| [6.VIDEO-CALL SESSIONS](/06-M.%20VIDEO-CALL%20SESSIONS/)      | Meet the other two participants in three video-call sessions guided by an instructor.       |
 
 
 
