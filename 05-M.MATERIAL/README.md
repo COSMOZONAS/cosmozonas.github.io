@@ -2,7 +2,7 @@
 
 Download the material of the course in EPUB or PDF format so you can use it offline or print it if you want. 
 
-- [PDF](http://cosmozonas.github.io/05-M.MATERIAL/Language.pdf)
+- [PDF](/Language.pdf)
 
 - [EPUB](http://cosmozonas.github.io/05-M.MATERIAL/Language_of_birds/dist/milibro.epub)
 
