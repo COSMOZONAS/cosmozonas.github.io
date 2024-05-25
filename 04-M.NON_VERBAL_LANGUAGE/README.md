@@ -30,10 +30,10 @@ Watch this [video](https://www.youtube.com/watch?v=Dt69xWVGdWM) to learn more ab
 
 ### 4.2.4 Test yourself with this interactive narration created with [Twine](http://cosmozonas.github.io/04-M.NON_VERBAL_LANGUAGE/Twine/index.html)
  
-
-#### [BACK TO TOP](README.md)
-#### [NEXT MODULE](/05-M.MATERIAL/)
-#### [PREVIOUS MODULE](/03-M.GREETINGS/)
+--------------------------------------------------------------------------------------
+##### [BACK TO TOP](README.md)
+##### [NEXT MODULE](/05-M.MATERIAL/)
+##### [PREVIOUS MODULE](/03-M.GREETINGS/)
 
 
 

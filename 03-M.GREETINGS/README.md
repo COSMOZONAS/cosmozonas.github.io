@@ -29,7 +29,7 @@ As you delve into this collection of greetings, you'll not only learn how to say
 | 7 | [تشرفنا](http://cosmozonas.github.io/03-M.GREETINGS/sounds/ARABIC/7.mp3) | [很高兴](http://cosmozonas.github.io/03-M.GREETINGS/sounds/CHINESE/7.mp3) | [encantado](http://cosmozonas.github.io/03-M.GREETINGS/sounds/SPANISH/7.mp3) | nice_to_meet_you |
 | 8 | [رجاءً](http://cosmozonas.github.io/03-M.GREETINGS/sounds/ARABIC/8.mp3) | [劳驾](http://cosmozonas.github.io/03-M.GREETINGS/sounds/CHINESE/8.mp3) | [por_favor](http://cosmozonas.github.io/03-M.GREETINGS/sounds/SPANISH/8.mp3) | please | 
 
-
-#### [BACK TO TOP](README.md)
-#### [NEXT MODULE](/04-M.NON_VERBAL_LANGUAGE/)
-#### [PREVIOUS MODULE](/02-M.LANGUAGE_CLASSIFICATIONS/)
+--------------------------------------------------------------------------------------
+##### [BACK TO TOP](README.md)
+##### [NEXT MODULE](/04-M.NON_VERBAL_LANGUAGE/)
+##### [PREVIOUS MODULE](/02-M.LANGUAGE_CLASSIFICATIONS/)

@@ -15,7 +15,7 @@ Learn about the ways in which languages can be classified.
 
 Explore the diversity of languages and test your knowledge on the classification of languages. 
 
+-------------------------------------------------------------------------------------
 
-
-#### [NEXT MODULE](/03-M.GREETINGS/)
-#### [PREVIOUS MODULE](/01-M.LINGUISTIC_PROFILES/)
+##### [NEXT MODULE](/03-M.GREETINGS/)
+##### [PREVIOUS MODULE](/01-M.LINGUISTIC_PROFILES/)
