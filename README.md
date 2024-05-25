@@ -46,8 +46,6 @@ Here you will a brief description of the 5 sections.
 
 # 2. INDEX
 
- This is a table with the contents and a short description for each module. Click on the link to access each module. 
-
  ## [1.LINGUISTIC PORTRAITS](/01-M.LINGUISTIC_PROFILES/) 
  ## [2.LANGUAGE CLASSIFICATION](/02-M.LANGUAGE_CLASSIFICATIONS/) 
  ## [3.GREETINGS](/03-M.GREETINGS/) 
