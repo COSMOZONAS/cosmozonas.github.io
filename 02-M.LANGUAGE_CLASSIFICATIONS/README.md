@@ -7,7 +7,7 @@
   Genially.
 
 
-## 2.1 Access [the presentation](http://cosmozonas.github.io/02-M.LANGUAGE_CLASSIFICATIONS/presentation_languages/index.html) about language classifications.
+## 2.1 Access the [presentation](http://cosmozonas.github.io/02-M.LANGUAGE_CLASSIFICATIONS/presentation_languages/index.html) about language classifications.
 
 Learn about the ways in which languages can be classified. 
 
@@ -16,6 +16,6 @@ Learn about the ways in which languages can be classified.
 Explore the diversity of languages and test your knowledge on the classification of languages. 
 
 
-- [BACK TO TOP](README.md)
-- [NEXT MODULE](/03-M.GREETINGS/)
+#### [BACK TO TOP](README.md)
+#### [NEXT MODULE](/03-M.GREETINGS/)
  
